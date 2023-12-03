@@ -72,3 +72,6 @@ The project uses the following technologies:
 ## How to Run Locally
 
 Follow these steps to run the application locally for development or testing purposes:
+
+## Link to Deployment Video
+
