@@ -30,7 +30,7 @@ highlight_style = """
 </style>
 """
 
-# Streamlit app
+# #Streamlit app
 st.title('EthicalCheck - Plagiarism Checker')
 
 instructions = st.markdown("## Instructions:")
